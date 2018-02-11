@@ -1,0 +1,60 @@
+body {
+    background-image: url("back2.jpg");
+    background-color: #cccccc;
+}
+#column1 {
+    float:left;
+    width:50%;
+}
+
+#timeAndDate {
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px; 
+    text-align: left;
+    color: lightblue;
+    font-size: 30px;
+    background: white;
+    font-family: "American Typewriter", serif; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#tweets {
+    text-align: center;
+    padding: 10px
+    
+}
+
+#quotedisplay {
+    border-radius: 25px;
+    padding: 20px;
+
+    text-align: center;
+    font-size: 18px; 
+    vertical-align: text-top;
+}
+
+.logo {
+    width:400px;
+    height:325px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#column2 {
+    float:right;
+    width:50%;
+}
+
+#links {
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+}
